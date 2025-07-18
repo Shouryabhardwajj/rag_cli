@@ -1,8 +1,13 @@
+# 🧠 RAG CLI
+
+A command-line interface (CLI) tool for Retrieval-Augmented Generation (RAG) using the Gemini API.  
+Easily plug in your data and ask questions powered by Google’s Gemini models.
+
 ## Setup
 
 1.  **Clone the Repository:**
     ```bash
-    git clone [https://github.com/Shouryabhardwajj/rag_cli.git](https://github.com/Shouryabhardwajj/rag_cli.git)
+    git clone https://github.com/Shouryabhardwajj/rag_cli.git
     cd rag_cli
     ```
 
